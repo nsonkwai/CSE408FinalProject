@@ -1,0 +1,7 @@
+Implementation of MSRCR
+
+To run:
+1. Run main.py
+
+To edit inputs:
+1. Put/remove images in data folder
