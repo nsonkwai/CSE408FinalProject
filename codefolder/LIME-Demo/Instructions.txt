@@ -1,0 +1,7 @@
+Everything is using python3.
+
+To run this code you will have to pip install the following: numpy, scipy, opencv-python, tqdm
+
+To run the default demo: python lime-demo.py 
+
+The enhanced image will automatically populate into ./demo-images/enhanced
